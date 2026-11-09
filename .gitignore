@@ -1,0 +1,8 @@
+# Private: research, correspondence and working briefs never go to this public repo
+Andrew_Triapitsyn_Astra_Research_Creative_Brief_*.md
+CODEX_START_HERE.md
+/research/
+# Full-size cover masters (site/ carries its own web-sized copies)
+/assets/
+# QA machine-specific output
+qa/qa-results.json
